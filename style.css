@@ -1,0 +1,170 @@
+body{
+    margin: 0px;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+/* BUTTON */
+button{
+    background-color: transparent;
+    border: 1px blue solid;
+    border-radius: 15px;
+    color: whitesmoke;
+    height: 40px;
+    width: 200px;
+    cursor: pointer;
+}
+
+/* HEADER */
+header{
+    background-color: rgb(219, 215, 215);
+    color: black;
+    margin: 0px -0px; 
+    text-align: initial;
+}
+header button{
+    border: none;
+    background-color: transparent;
+    height: auto;
+    width: auto;
+}
+ul{
+    margin: 0px 0px;
+    display: inline-flex;
+}
+header a{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(78, 78, 138);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.butto{
+    font-size: 15px;
+    color: rgb(78, 78, 138);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* PRONAV */
+.pronav{
+    background-image: url(eth0.jpg);
+    height: 85vh;
+    width: 100%;
+}
+.prodiv{
+    text-align: center;
+    padding: 10px;
+}
+.prodiv h2{
+    font-size: 40px;
+}
+
+/* IDEA */
+.idea{
+    text-align: center;
+    padding: 20px;
+}
+
+/* GRANAV */
+#granav{
+    text-align: center;
+    padding: 20px;
+}
+#granav a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 15px;
+}
+#granav .gradiv{
+    background-image: url(aa.png);
+    padding: 10px;
+    margin: 0 10%;
+}
+#granav .gradivd{
+    background-image: url(aa.png);
+    padding: 10px;
+    margin: 0 10%;
+}
+#granav .gradivt{
+    background-image: url(aa.png);
+    padding: 10px;
+    margin: 0 10%;
+}
+#granav span{
+    color: green;
+}
+
+/* TEXT */
+.text{
+    text-align: center;
+}
+
+/* SUPERNAV */
+.supernav{
+    text-align: center;
+    padding: 20px;   
+}
+.supernav h2{
+    color: blue;
+}
+.supernav .superdiv{
+    background-color: black;
+    padding: 15px;
+    margin: 0 12%;
+}
+.supernav .superdivd{
+    background-color: black;
+    padding: 15px;
+    margin: 0 12%;
+}
+.supernav .superdivt{
+    background-color: black;
+    padding: 15px;
+    margin: 0 12%;
+    text-align: au;
+}
+
+/* NOVA */
+#nova{
+    text-align: center;
+    padding: 20px;
+}
+#nova h1{
+    color: blue;
+    font-size: 37px;
+}
+/* INVEST */
+#invest{
+    text-align: center;
+}
+#invest hr{
+    height: 3px;
+    margin: 0px 100px;
+    background-color: whitesmoke;
+}
+#invest select{
+    font-size: 16px;
+}
+#invest h4{
+    color: green;
+}
+
+/* PROPOS */
+#propos{
+    text-align: center;
+    padding: 20px;
+}
+#propos h1{
+    color: blue;
+}
+
+/* FOOTER */
+footer{
+    text-align: center;
+    background-color: rgb(49, 48, 48);
+    padding: 30px;
+    
+}
